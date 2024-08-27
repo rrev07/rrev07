@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rev!
 - 👀 I’m interested in music composition and graphic design!
-- 🌱 I’m currently learning how to compose on FL Studio 21.
+- 🌱 I’m currently learning how to compose on FL Studio 24.
 - 💞️ I’m looking to collaborate on small projects!
-- 📫 How to reach me twitter @rev8207 and discord @carnivore07
+- 📫 How to reach me twitter @rev8207 and discord @flstudio12_
 - 😄 Pronouns: he/him
